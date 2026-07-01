@@ -1,6 +1,9 @@
 # 🌍 Language Translator
-
 ## 📌 Project Description
+## 🌐 Live Demo
+**[Try the Language Translator here](https://shivanishinde604-cmd.github.io/language-translator/)**
+
+---
 This is a simple web-based Language Translator application.  
 It allows users to translate text between different languages using an online translation API.
 
